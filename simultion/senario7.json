@@ -1,0 +1,102 @@
+[
+  {
+    "intersection_id": 1,
+    "vehicles": [
+      {
+        "type": "0",
+        "count": 5
+      },
+      {
+        "type": "1",
+        "count": 5
+      },
+      {
+        "type": "2",
+        "count": 0
+      },
+      {
+        "type": "3",
+        "count": 5
+      },
+      {
+        "type": "4",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "intersection_id": 2,
+    "vehicles": [
+      {
+        "type": "0",
+        "count": 0
+      },
+      {
+        "type": "1",
+        "count": 0
+      },
+      {
+        "type": "2",
+        "count": 1
+      },
+      {
+        "type": "3",
+        "count": 0
+      },
+      {
+        "type": "4",
+        "count": 0
+      }
+    ]
+  },
+  {
+    "intersection_id": 3,
+    "vehicles": [
+      {
+        "type": "0",
+        "count": 5
+      },
+      {
+        "type": "1",
+        "count": 0
+      },
+      {
+        "type": "2",
+        "count": 5
+      },
+      {
+        "type": "3",
+        "count": 0
+      },
+      {
+        "type": "4",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "intersection_id": 4,
+    "vehicles": [
+      {
+        "type": "0",
+        "count": 10
+      },
+      {
+        "type": "1",
+        "count": 5
+      },
+      {
+        "type": "2",
+        "count": 5
+      },
+      {
+        "type": "3",
+        "count": 2
+      },
+      {
+        "type": "4",
+        "count": 2
+      }
+    ]
+  }
+]
