@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-06-13 22:26:08 by Eclipse SUMO netedit Version 1.20.0
+number
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- VTypes -->
+    <vType id="DEFAULT_VEHTYPE" vClass="delivery"/>
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="f_0" begin="0.00" from="-E2" to="-E1" end="1000.00" number="50"/>
+    <flow id="f_1" begin="0.00" from="-E2" to="E4" end="1000.00" number="50"/>
+    <flow id="f_10" begin="0.00" from="E1" to="E3" end="1000.00" number="50"/>
+    <flow id="f_11" begin="0.00" from="E1" to="E2" end="1000.00" number="50"/>
+    <flow id="f_12" begin="0.00" from="E1" to="E4" end="1000.00" number="50"/>
+    <flow id="f_13" begin="0.00" from="E1" to="E3" end="1000.00" number="50"/>
+    <flow id="f_14" begin="0.00" from="-E3" to="E4" end="1000.00" number="50"/>
+    <flow id="f_15" begin="0.00" from="-E3" to="-E1" end="1000.00" number="50"/>
+    <flow id="f_16" begin="0.00" from="-E3" to="-E1" end="1000.00" number="50"/>
+    <flow id="f_17" begin="0.00" from="-E3" to="E2" end="1000.00" number="50"/>
+    <flow id="f_18" begin="0.00" from="-E3" to="-E1" end="1000.00" number="50"/>
+    <flow id="f_2" begin="0.00" from="-E2" to="E4" end="1000.00" number="50"/>
+    <flow id="f_3" begin="0.00" from="-E2" to="E4" end="1000.00" number="50"/>
+    <flow id="f_4" begin="0.00" from="-E4" to="E3" end="1000.00" number="50"/>
+    <flow id="f_5" begin="0.00" from="-E4" to="E2" end="1000.00" number="50"/>
+    <flow id="f_6" begin="0.00" from="-E4" to="E2" end="1000.00" number="50"/>
+    <flow id="f_7" begin="0.00" from="-E4" to="-E1" end="1000.00" number="50"/>
+    <flow id="f_8" begin="0.00" from="-E4" to="E2" end="1000.00" number="50"/>
+    <flow id="f_9" begin="0.00" from="-E2" to="E3" end="1000.00" number="50"/>
+</routes>
